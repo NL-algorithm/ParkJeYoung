@@ -45,6 +45,7 @@ void dfs(int idx, int picked, long double sx, long double sy) {
             long double dy = 2*sy - sumy;
             
             long double val = hypotl(dx, dy);
+            // cus we use th abs and sqrt the value by using abs result
 
             if (val < best) best = val;
 
