@@ -1,0 +1,15 @@
+{
+    "files.associations": {
+        "utility": "cpp",
+        "stack": "cpp",
+        "deque": "cpp",
+        "initializer_list": "cpp",
+        "list": "cpp",
+        "queue": "cpp",
+        "vector": "cpp",
+        "xhash": "cpp",
+        "xstring": "cpp",
+        "xutility": "cpp",
+        "xiosbase": "cpp"
+    }
+}
