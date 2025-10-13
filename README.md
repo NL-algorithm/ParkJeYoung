@@ -17,4 +17,4 @@
 ## STATUS
 - week1 : 5+
 - week2 : 4 ~
-- 
+- week3 : 5
